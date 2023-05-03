@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PamelaTriutami7845&show_icons=true&theme=highcontrast)
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
