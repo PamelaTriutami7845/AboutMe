@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeyEveryone!&height=100&section=header"/>
-</p>
-
+<picture>
+  <img src="./github-metrics.svg" alt="Metrics">
+</picture>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -63,9 +62,3 @@ fields_of_interests:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="android studio"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45"width="45" height="45" alt="jquery"/>             
 </p>
-
----
-
-<picture>
-  <img src="./github-metrics.svg" alt="Metrics">
-</picture>
