@@ -29,5 +29,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
           plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_topics_mode: labels
+          plugin_topics_limit: 0
           
