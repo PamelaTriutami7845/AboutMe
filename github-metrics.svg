@@ -241,8 +241,8 @@
                             <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
                             <div class="label" title="Arduino is an open source platform for building electronic devices.">arduino</div>
-                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
+                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                             <div class="label" title="Angular is an open source web application platform.">angular</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
@@ -557,7 +557,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.28m out of 60.8m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 70.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -861,7 +861,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jan 2024, 13:42:06  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2024, 13:54:10  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
