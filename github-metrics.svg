@@ -225,8 +225,8 @@
                             <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                             <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
                             <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
-                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="Linux is an open source kernel.">linux</div>
+                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
@@ -557,7 +557,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.26m out of 64.5m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 61.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -861,7 +861,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2024, 03:32:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2024, 03:44:23  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
